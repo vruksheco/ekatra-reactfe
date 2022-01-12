@@ -1,2 +1,3 @@
 # ekatra-reactfe
-React JS frontend for ekatra one application. 
+
+React JS frontend for ekatra one application.
